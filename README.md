@@ -35,7 +35,7 @@ The models were trained using the Crop Recommendation Dataset, consisting of 2,2
 - Soil Chemistry: pH levels.
 
 # The Team
-- Muhammad Arif Danial – Developed and configured all code; conducted results analysis and discussion.
+- Muhammad Arif Danial (me) – Developed and configured all code; conducted results analysis and discussion.
 - Syazwan Fariz – Handled Abstract, Introduction, Deployment Architecture, and Conclusion.
 - Syed Muhammad Afiq – Designed Methodology and Experimental Setup.
 
